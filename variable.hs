@@ -1,4 +1,4 @@
-rep :: Int -> a -> [a]
+rep :: Int -> abc -> [abc]
 rep 0 _ = []
 rep n x = x : rep (n - 1) x
 
